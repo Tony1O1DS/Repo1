@@ -8,7 +8,7 @@ import numpy as np
 
 
 # Title
-st.title("💌 Wedding Guest List OCR App (India)")
+st.title("Wedding Guest List")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload a visiting card image", type=["png", "jpg", "jpeg"])
